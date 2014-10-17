@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tgi:home|Door43 (tgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tgi|d43-tgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tgi/archive/master.zip|d43-tgi.zip]]
+
+**Recent Changes**
+{{changes>ns = tgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tgi|Ethnologue data]]
+
